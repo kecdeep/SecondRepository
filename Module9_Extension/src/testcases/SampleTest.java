@@ -10,6 +10,7 @@ public class SampleTest {
 	public void testLogin(String username,String psw){
 		//Assert.assertEquals("A", "B");
 		System.out.println("Login Test");
+		System.out.println("new chnage ");
 		
 	}
 	
